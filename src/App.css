@@ -1,0 +1,29 @@
+#root {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem;
+
+}
+
+
+.contenedor-formulario {
+  background-color: #808080;
+  border-radius: 8px;
+  border: #000 solid 1px;
+  color: #000;
+  font-weight: 600;
+}
+
+.contenedor-card {
+  border: #000 solid 1px;
+  border-radius: 8px;
+  margin-top: 24px;
+  padding: 12px;
+}
+
+.mensaje-error {
+  color: #ff0000;
+  margin: 8px;
+  padding: 12px;
+  font-weight: 600;
+}
